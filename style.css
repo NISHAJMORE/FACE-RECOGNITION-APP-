@@ -1,0 +1,25 @@
+#text
+{
+    border: 3px;
+    border-style: double;
+    border-color: black;
+
+}
+
+#camera,#result
+{
+    width:350px;
+    height: 300px;
+    border: 2px double black;
+
+
+}
+
+.name_of_objects
+{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.994);
+}
+
+   
+    
